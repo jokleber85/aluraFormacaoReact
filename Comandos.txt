@@ -1,0 +1,9 @@
+TERMINAL
+
+* instalando pacotes para iniciar projeto:
+- npx create-react-app "nome do projeto"
+
+* vizualizar projeto
+- npm start
+
+
