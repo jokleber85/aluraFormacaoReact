@@ -1,4 +1,4 @@
-##Alura
+Alura
 
 React1: Entendendo como a biblioteca funciona (12 horas)<br />
 
@@ -15,4 +15,15 @@ Descrição: Criando um projeto de cards utilizando os conceitos do framework.<b
 - organização projeto
 - referência .this e .bind()
 - utilização state e props.
-##
+## <br />
+React2: Ciclo de vida dos componentes (12 horas)<br />
+
+Data: 14/02/2021 - 14/02/2021<br />
+
+- importação imagem (svg)
+- passagem funções como propriedades entre componentes
+- fragment
+- stateless e statefull
+- gerenciamento estado
+- padrão observable
+- ComponentDidMount e o ComponentWillUnmount
