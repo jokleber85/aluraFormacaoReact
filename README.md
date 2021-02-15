@@ -27,3 +27,19 @@ Data: 14/02/2021 - 14/02/2021<br />
 - gerenciamento estado
 - padrão observable
 - ComponentDidMount e o ComponentWillUnmount
+
+## <br />
+React3: Function Components, uma abordagem moderna (12 horas)<br />
+
+Data: 14/02/2021 - 14/02/2021<br />
+
+- function components
+- material.ui
+- elementos material.ui
+- hooks e useState
+- descontrução array
+- desconstrução objeto js
+- regras hooks
+- estado
+- validação externa
+
