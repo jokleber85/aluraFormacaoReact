@@ -43,3 +43,18 @@ Data: 14/02/2021 - 14/02/2021<br />
 - estado
 - validação externa
 
+## <br />
+React4: Hooks, Contextos e boas práticas (10 horas)<br />
+
+Data: 15/02/2021 - 15/02/2021<br />
+
+- separar formulário
+- funções dentro jsx
+- reutilização componentes
+- hook
+- useEffect
+- Stepper do material.ui
+- useContext
+- propDrilling
+- providers
+- hooks customizados
