@@ -2,10 +2,11 @@ Alura
 
 Formação React JS</br>
 
-React: Entendendo como a biblioteca funciona (12 horas)</br>
+React: Abstraindo seu CSS com Styled Components (06 horas)
+## <br />
 
-React: Ciclo de vida dos componentes (12 horas)</br>
+Instalação:
 
-React: Function Components, uma abordagem moderna (12 horas)</br>
-
-React: Hooks, Contextos e boas práticas (10 horas)</br>
+```js
+npm install --save styled-components
+```
